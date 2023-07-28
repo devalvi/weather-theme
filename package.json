@@ -1,0 +1,25 @@
+{
+  "name": "weather-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/animate.js",
+  "dependencies": {
+    "three": "^0.155.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "dev": "parcel ./src/index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devalvi/weather-theme.git"
+  },
+  "author": "ianaluvi.official@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devalvi/weather-theme/issues"
+  },
+  "homepage": "https://github.com/devalvi/weather-theme#readme"
+}
