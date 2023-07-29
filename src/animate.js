@@ -12,7 +12,6 @@ container.appendChild(renderer.domElement)
 
 const geometry = new THREE.PlaneGeometry(14, 8, 1, 2)
 const material = new THREE.MeshBasicMaterial({
-    // color: 0xd7dcde,
     map: loader.load(bg1)
 })
 
